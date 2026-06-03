@@ -14,7 +14,7 @@ function Logo() {
     return (
         <LogoContainer>
             <LogoImagem src={logo} alt="Logo SENAI Flix" />
-            <p><strong>SENAI</strong> Flix</p>
+            <p><strong>CAUÃ</strong> Flix</p>
         </LogoContainer>
     )
 }
